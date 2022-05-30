@@ -1,2 +1,2 @@
-# Azurer virtual Desktop Showcase
+# Azure Virtual Desktop Showcase
 Terraform for Azure virtual Desktop

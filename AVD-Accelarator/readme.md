@@ -19,3 +19,6 @@ An easy-to-follow setup wizard will guide you through the process to deploy AVD 
 - A Virtual Network can be created during deployment or an existing one be specified if it has connectivity to the On-Prem domain.
 
 #### Azure Active Directory VM Domain Join
+
+
+## Useful links
